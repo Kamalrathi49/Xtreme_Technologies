@@ -44,7 +44,7 @@ class Message(models.Model):
         elif weather == 'Clouds':
             icon = 'cloud'
         else:
-            icon = 'partly_sunny'
+            icon = 'partly_sunny' 
         degree_sign = u'U+00B0'
         if self.email is not None:
             subject = f'Hi {self.name}, intrested in our services'
