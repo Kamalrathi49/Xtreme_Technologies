@@ -18,8 +18,8 @@
 - sqlite
 - Git
 - Heroku
-- Pillow
-- Api
+- requests
+- Third party API
 - Github
 
 
@@ -30,9 +30,9 @@
 - Start virtual environment
   - python -m venv env
   - window
-    - venv\scripts\activate
+    - env\scripts\activate
   - linux
-    - source venv\bin\activate
+    - source env\bin\activate
   
 - Install Django packages used in this project
   - pip install -r requirements.txt
@@ -46,5 +46,6 @@
 
 - after that open  https://localhost:8000/admin  in your browser
 - then open Messages on Myapp and create New Message
+- When you click on save button an email sent to corresponding email that you fill
 #### Note :- from my side everything is perfact and tested many time but it is also possible some error and bug can be found IN CASE please contact me at kamalrathi049@gmail.com
 
