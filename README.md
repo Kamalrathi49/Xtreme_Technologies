@@ -1,5 +1,6 @@
 # Xtreme Technologies
-### Demo - https://xtreme-technologies.herokuapp.com/
+### Demo - https://xtreme-technologies.herokuapp.com/admin
+### Credentials for login - Username: admin and password: adminpass
 #### Code - https://github.com/Kamalrathi49/Xtreme_Technologies
 #### Detail Brochure
 
